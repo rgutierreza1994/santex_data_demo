@@ -1,0 +1,16 @@
+Customer ID,Age,Gender,Marital Status,Education Level,Geographic Information,Occupation,Income Level,Behavioral Data,Purchase History,Interactions with Customer Service,Insurance Products Owned,Coverage Amount,Premium Amount,Policy Type,Customer Preferences,Preferred Communication Channel,Preferred Contact Time,Preferred Language,Segmentation Group,HOLIDAY_NAME,row_num
+4367,51,Female,Divorced,Doctorate,Sikkim,Manager,111498,policy5,2018-01-15,Mobile App,policy4,980257,3609,Individual,Email,Text,Morning,Mandarin,Segment4,Martin Luther King Jr. Day,356
+5420,51,Female,Divorced,Associate Degree,Lakshadweep,Entrepreneur,56311,policy4,2018-09-03,Mobile App,policy1,579925,1916,Business,Text,Email,Weekends,Mandarin,Segment1,Labor Day,315
+20638,51,Female,Divorced,Associate Degree,Odisha,Lawyer,126166,policy4,2018-11-22,Chat,policy2,785007,4026,Business,Email,Mail,Afternoon,French,Segment4,Thanksgiving,303
+34009,51,Female,Divorced,Bachelor's Degree,Kerala,Salesperson,125836,policy2,2019-10-14,In-Person,policy5,674120,836,Family,In-Person Meeting,Mail,Evening,Mandarin,Segment5,Columbus Day,258
+67146,51,Female,Divorced,High School Diploma,Tamil Nadu,Nurse,74475,policy4,2020-05-25,Phone,policy5,309146,1041,Family,In-Person Meeting,Text,Anytime,English,Segment1,Memorial Day,200
+92382,51,Female,Divorced,Bachelor's Degree,Uttar Pradesh,Doctor,78332,policy3,2020-07-04,Phone,policy5,899517,4470,Family,Phone,Mail,Weekends,French,Segment4,Independence Day,195
+29538,51,Female,Divorced,Doctorate,Dadra and Nagar Haveli,Engineer,44788,policy2,2020-07-04,Mobile App,policy3,587537,1753,Group,Mail,Text,Morning,English,Segment2,Independence Day,196
+70029,51,Female,Widowed,High School Diploma,Tripura,Manager,57434,policy3,2021-01-18,Mobile App,policy3,583593,2176,Family,Text,Email,Evening,French,Segment4,Martin Luther King Jr. Day,164
+67600,51,Female,Divorced,Associate Degree,Maharashtra,Salesperson,114206,policy3,2021-11-11,Mobile App,policy2,608140,1776,Group,Phone,Text,Weekends,German,Segment1,Veterans Day,128
+18881,51,Female,Married,Master's Degree,Mizoram,Engineer,47350,policy1,2022-01-17,Mobile App,policy5,445240,3394,Group,Text,Text,Afternoon,English,Segment4,Martin Luther King Jr. Day,118
+2543,51,Female,Married,Associate Degree,Manipur,Lawyer,31804,policy5,2022-01-17,Chat,policy2,144982,762,Group,Email,Mail,Weekends,English,Segment2,Martin Luther King Jr. Day,119
+64759,51,Female,Divorced,Doctorate,Manipur,Lawyer,29611,policy3,2022-12-25,Phone,policy3,883127,4470,Group,In-Person Meeting,In-Person Meeting,Anytime,Mandarin,Segment5,Christmas Day,56
+39119,51,Female,Married,High School Diploma,Uttar Pradesh,Salesperson,76224,policy3,2023-01-01,Chat,policy5,759556,3453,Group,Phone,In-Person Meeting,Weekends,English,Segment4,New Year's Day,54
+84892,51,Female,Married,Master's Degree,Delhi,Salesperson,109043,policy5,2023-11-11,In-Person,policy4,280972,4649,Group,In-Person Meeting,Email,Weekends,German,Segment4,Veterans Day,8
+11056,51,Female,Divorced,High School Diploma,Arunachal Pradesh,Entrepreneur,81415,policy2,2023-11-11,Chat,policy4,148084,2396,Group,Text,In-Person Meeting,Anytime,German,Segment4,Veterans Day,9
