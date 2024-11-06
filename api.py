@@ -13,7 +13,7 @@ main_api = FastAPI()
 
 @main_api.get(
     "/get-incoming-age-gender",
-    response_model=list[common_api_responses.IncomingAgeGender],
+    response_model=common_api_responses.ListIncomingAgeGender,
 )
 async def get_incoming_age_gender(
     db_session: Session = Depends(get_session),
@@ -30,4 +30,4 @@ async def get_incoming_age_gender(
             detail="No table found with the name incoming_age_gender_group",
         )
 
-    return data
+    return common_api_responses.ListIncomingAgeGender(data=data)

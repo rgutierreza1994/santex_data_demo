@@ -38,3 +38,8 @@ class IncomingAgeGender(BaseModel):
     segmentation_group: str = Field(..., alias="Segmentation Group")
     holiday_name: str = Field(..., alias="HOLIDAY_NAME")
     row_num: int = Field(..., alias="row_num")
+
+
+class ListIncomingAgeGender(BaseModel):
+
+    data: list[IncomingAgeGender] = Field([])

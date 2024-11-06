@@ -14,7 +14,7 @@
 
 ## Si se desea probar la parte de API.
 - dentro de la terminal ejecutar:
-  - fastapi dev api
+  - fastapi dev api.py
 - Entrar a la siguiente direccion 
   - http://127.0.0.1:8000/docs
 
